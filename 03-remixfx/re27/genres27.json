@@ -1,0 +1,744 @@
+{
+ "common_allowed": [
+  {
+   "id": "4",
+   "name": "Children's Music",
+   "path": "Children's Music"
+  },
+  {
+   "id": "6",
+   "name": "Country",
+   "path": "Country"
+  },
+  {
+   "id": "7",
+   "name": "Electronic",
+   "path": "Electronic"
+  },
+  {
+   "id": "100007",
+   "name": "Electronic",
+   "path": "Classical > Electronic"
+  },
+  {
+   "id": "8",
+   "name": "Holiday",
+   "path": "Holiday"
+  },
+  {
+   "id": "14",
+   "name": "Pop",
+   "path": "Pop"
+  },
+  {
+   "id": "15",
+   "name": "R&B/Soul",
+   "path": "R&B/Soul"
+  },
+  {
+   "id": "17",
+   "name": "Dance",
+   "path": "Dance"
+  },
+  {
+   "id": "18",
+   "name": "Hip-Hop/Rap",
+   "path": "Hip-Hop/Rap"
+  },
+  {
+   "id": "19",
+   "name": "Worldwide",
+   "path": "Worldwide"
+  },
+  {
+   "id": "24",
+   "name": "Reggae",
+   "path": "Reggae"
+  },
+  {
+   "id": "27",
+   "name": "J-Pop",
+   "path": "J-Pop"
+  },
+  {
+   "id": "29",
+   "name": "Anime",
+   "path": "Anime"
+  },
+  {
+   "id": "41",
+   "name": "Alte",
+   "path": "African > Alte"
+  },
+  {
+   "id": "42",
+   "name": "Amapiano",
+   "path": "African > Amapiano"
+  },
+  {
+   "id": "44",
+   "name": "Afro-fusion",
+   "path": "African > Afro-fusion"
+  },
+  {
+   "id": "45",
+   "name": "African Dancehall",
+   "path": "African > African Dancehall"
+  },
+  {
+   "id": "50",
+   "name": "Fitness & Workout",
+   "path": "Fitness & Workout"
+  },
+  {
+   "id": "52",
+   "name": "Karaoke",
+   "path": "Karaoke"
+  },
+  {
+   "id": "53",
+   "name": "Instrumental",
+   "path": "Instrumental"
+  },
+  {
+   "id": "1032",
+   "name": "Wedding Music",
+   "path": "Classical > Wedding Music"
+  },
+  {
+   "id": "1054",
+   "name": "Lounge",
+   "path": "Easy Listening > Lounge"
+  },
+  {
+   "id": "1096",
+   "name": "Christian Pop",
+   "path": "Christian > Christian Pop"
+  },
+  {
+   "id": "1097",
+   "name": "Christian Rap",
+   "path": "Christian > Christian Rap"
+  },
+  {
+   "id": "1100",
+   "name": "Contemporary Gospel",
+   "path": "Christian > Contemporary Gospel"
+  },
+  {
+   "id": "1116",
+   "name": "Contemporary Latin",
+   "path": "Latin > Contemporary Latin"
+  },
+  {
+   "id": "1117",
+   "name": "Pop Latino",
+   "path": "Latin > Pop Latino"
+  },
+  {
+   "id": "1119",
+   "name": "Urbano latino",
+   "path": "Latin > Urbano latino"
+  },
+  {
+   "id": "100000",
+   "name": "Inspirational",
+   "path": "Inspirational"
+  },
+  {
+   "id": "1174",
+   "name": "Traditional Pop",
+   "path": "Vocal > Traditional Pop"
+  },
+  {
+   "id": "1176",
+   "name": "Vocal Pop",
+   "path": "Vocal > Vocal Pop"
+  },
+  {
+   "id": "1177",
+   "name": "Afro-Beat",
+   "path": "African > Afro-Beat"
+  },
+  {
+   "id": "1178",
+   "name": "Afro-Pop",
+   "path": "African > Afro-Pop"
+  },
+  {
+   "id": "1185",
+   "name": "Indian Pop",
+   "path": "Indian > Indian Pop"
+  },
+  {
+   "id": "1229",
+   "name": "Baile Funk",
+   "path": "Brazilian > Baile Funk"
+  },
+  {
+   "id": "1286",
+   "name": "Arabic Pop",
+   "path": "Arabic > Arabic Pop"
+  },
+  {
+   "id": "100018",
+   "name": "EMO",
+   "path": "Alternative > EMO"
+  },
+  {
+   "id": "100019",
+   "name": "Pop Punk",
+   "path": "Alternative > Pop Punk"
+  },
+  {
+   "id": "100020",
+   "name": "Indie Pop",
+   "path": "Alternative > Indie Pop"
+  },
+  {
+   "id": "100033",
+   "name": "Punjabi Pop",
+   "path": "Indian > Regional Indian > Punjabi > Punjabi Pop"
+  },
+  {
+   "id": "100035",
+   "name": "Malayalam",
+   "path": "Indian > Regional Indian > Malayalam"
+  },
+  {
+   "id": "100036",
+   "name": "Kannada",
+   "path": "Indian > Regional Indian > Kannada"
+  },
+  {
+   "id": "100039",
+   "name": "Assamese",
+   "path": "Indian > Regional Indian > Assamese"
+  },
+  {
+   "id": "100040",
+   "name": "Bhojpuri",
+   "path": "Indian > Regional Indian > Bhojpuri"
+  },
+  {
+   "id": "100041",
+   "name": "Haryanvi",
+   "path": "Indian > Regional Indian > Haryanvi"
+  },
+  {
+   "id": "100042",
+   "name": "Odia",
+   "path": "Indian > Regional Indian > Odia"
+  },
+  {
+   "id": "100049",
+   "name": "Afro House",
+   "path": "African > Afro House"
+  },
+  {
+   "id": "100050",
+   "name": "Afro Soul",
+   "path": "African > Afro Soul"
+  },
+  {
+   "id": "100051",
+   "name": "Afrobeats",
+   "path": "African > Afrobeats"
+  },
+  {
+   "id": "100053",
+   "name": "Bongo-Flava",
+   "path": "African > Bongo-Flava"
+  },
+  {
+   "id": "100054",
+   "name": "Coup\u00e9-D\u00e9cal\u00e9",
+   "path": "African > Coup\u00e9-D\u00e9cal\u00e9"
+  },
+  {
+   "id": "100055",
+   "name": "Gqom",
+   "path": "African > Gqom"
+  }
+ ],
+ "common_denied": [
+  {
+   "id": "3",
+   "name": "Comedy",
+   "path": "Comedy"
+  },
+  {
+   "id": "5",
+   "name": "Classical",
+   "path": "Classical"
+  },
+  {
+   "id": "11",
+   "name": "Jazz",
+   "path": "Jazz"
+  },
+  {
+   "id": "1160",
+   "name": "Singer/Songwriter",
+   "path": "Rock > Singer/Songwriter"
+  },
+  {
+   "id": "1169",
+   "name": "Soundtrack",
+   "path": "Soundtrack > Soundtrack"
+  },
+  {
+   "id": "22",
+   "name": "Christian",
+   "path": "Christian"
+  },
+  {
+   "id": "23",
+   "name": "Vocal",
+   "path": "Vocal"
+  },
+  {
+   "id": "28",
+   "name": "Enka",
+   "path": "Enka"
+  },
+  {
+   "id": "30",
+   "name": "Kayokyoku",
+   "path": "Kayokyoku"
+  },
+  {
+   "id": "1003",
+   "name": "Grunge",
+   "path": "Alternative > Grunge"
+  },
+  {
+   "id": "1005",
+   "name": "New Wave",
+   "path": "Alternative > New Wave"
+  },
+  {
+   "id": "1016",
+   "name": "Stories",
+   "path": "Children's Music > Stories"
+  },
+  {
+   "id": "1290",
+   "name": "Orchestral",
+   "path": "Orchestral"
+  },
+  {
+   "id": "1067",
+   "name": "Traditional Folk",
+   "path": "Singer/Songwriter > Traditional Folk"
+  },
+  {
+   "id": "1079",
+   "name": "Chanukah",
+   "path": "Holiday > Chanukah"
+  },
+  {
+   "id": "1081",
+   "name": "Christmas: Children's",
+   "path": "Holiday > Christmas: Children's"
+  },
+  {
+   "id": "1082",
+   "name": "Christmas: Classic",
+   "path": "Holiday > Christmas: Classic"
+  },
+  {
+   "id": "1083",
+   "name": "Christmas: Classical",
+   "path": "Holiday > Christmas: Classical"
+  },
+  {
+   "id": "1084",
+   "name": "Christmas: Jazz",
+   "path": "Holiday > Christmas: Jazz"
+  },
+  {
+   "id": "1088",
+   "name": "Christmas: Religious",
+   "path": "Holiday > Christmas: Religious"
+  },
+  {
+   "id": "1090",
+   "name": "Easter",
+   "path": "Holiday > Easter"
+  },
+  {
+   "id": "1092",
+   "name": "Holiday: Other",
+   "path": "Holiday > Holiday: Other"
+  },
+  {
+   "id": "1106",
+   "name": "Avant-Garde Jazz",
+   "path": "Jazz > Avant-Garde Jazz"
+  },
+  {
+   "id": "1107",
+   "name": "Contemporary Jazz",
+   "path": "Jazz > Contemporary Jazz"
+  },
+  {
+   "id": "1108",
+   "name": "Crossover Jazz",
+   "path": "Jazz > Crossover Jazz"
+  },
+  {
+   "id": "1109",
+   "name": "Dixieland",
+   "path": "Jazz > Dixieland"
+  },
+  {
+   "id": "1110",
+   "name": "Fusion",
+   "path": "Jazz > Fusion"
+  },
+  {
+   "id": "1112",
+   "name": "Mainstream Jazz",
+   "path": "Jazz > Mainstream Jazz"
+  },
+  {
+   "id": "1113",
+   "name": "Ragtime",
+   "path": "Jazz > Ragtime"
+  },
+  {
+   "id": "1114",
+   "name": "Smooth Jazz",
+   "path": "Jazz > Smooth Jazz"
+  },
+  {
+   "id": "1120",
+   "name": "Baladas y Boleros",
+   "path": "Latin > Baladas y Boleros"
+  },
+  {
+   "id": "1125",
+   "name": "Environmental",
+   "path": "New Age > Environmental"
+  },
+  {
+   "id": "1126",
+   "name": "Healing",
+   "path": "New Age > Healing"
+  },
+  {
+   "id": "1127",
+   "name": "Meditation",
+   "path": "New Age > Meditation"
+  },
+  {
+   "id": "1128",
+   "name": "Nature",
+   "path": "New Age > Nature"
+  },
+  {
+   "id": "1129",
+   "name": "Relaxation",
+   "path": "New Age > Relaxation"
+  },
+  {
+   "id": "1130",
+   "name": "Travel",
+   "path": "New Age > Travel"
+  },
+  {
+   "id": "1131",
+   "name": "Adult Contemporary",
+   "path": "Pop > Adult Contemporary"
+  },
+  {
+   "id": "1140",
+   "name": "Motown",
+   "path": "R&B/Soul > Motown"
+  },
+  {
+   "id": "1158",
+   "name": "Rockabilly",
+   "path": "Rock > Rockabilly"
+  },
+  {
+   "id": "1163",
+   "name": "Tex-Mex",
+   "path": "Rock > Tex-Mex"
+  },
+  {
+   "id": "1165",
+   "name": "Foreign Cinema",
+   "path": "Soundtrack > Foreign Cinema"
+  },
+  {
+   "id": "1166",
+   "name": "Musicals",
+   "path": "Soundtrack > Musicals"
+  },
+  {
+   "id": "1168",
+   "name": "Original Score",
+   "path": "Soundtrack > Original Score"
+  },
+  {
+   "id": "1172",
+   "name": "TV Soundtrack",
+   "path": "Soundtrack > TV Soundtrack"
+  },
+  {
+   "id": "1180",
+   "name": "Celtic",
+   "path": "Worldwide > Celtic"
+  },
+  {
+   "id": "1181",
+   "name": "Celtic Folk",
+   "path": "Worldwide > Celtic Folk"
+  },
+  {
+   "id": "1189",
+   "name": "Traditional Celtic",
+   "path": "Worldwide > Traditional Celtic"
+  },
+  {
+   "id": "1191",
+   "name": "Zydeco",
+   "path": "Worldwide > Zydeco"
+  },
+  {
+   "id": "1192",
+   "name": "Roots Reggae",
+   "path": "Reggae > Roots Reggae"
+  },
+  {
+   "id": "1196",
+   "name": "South America",
+   "path": "Worldwide > South America"
+  },
+  {
+   "id": "1197",
+   "name": "Arabic",
+   "path": "Arabic"
+  },
+  {
+   "id": "1198",
+   "name": "North America",
+   "path": "Worldwide > North America"
+  },
+  {
+   "id": "1199",
+   "name": "Hawaii",
+   "path": "Worldwide > Hawaii"
+  },
+  {
+   "id": "1200",
+   "name": "Australia",
+   "path": "Worldwide > Australia"
+  },
+  {
+   "id": "1201",
+   "name": "Japan",
+   "path": "Worldwide > Japan"
+  },
+  {
+   "id": "1202",
+   "name": "France",
+   "path": "Worldwide > France"
+  },
+  {
+   "id": "1203",
+   "name": "African",
+   "path": "African"
+  },
+  {
+   "id": "1204",
+   "name": "Asia",
+   "path": "Worldwide > Asia"
+  },
+  {
+   "id": "1205",
+   "name": "Europe",
+   "path": "Worldwide > Europe"
+  },
+  {
+   "id": "1206",
+   "name": "South Africa",
+   "path": "Worldwide > South Africa"
+  },
+  {
+   "id": "1232",
+   "name": "Chinese",
+   "path": "Chinese"
+  },
+  {
+   "id": "1243",
+   "name": "Korean",
+   "path": "Korean"
+  },
+  {
+   "id": "1257",
+   "name": "Original Pilipino Music",
+   "path": "Pop > Original Pilipino Music"
+  },
+  {
+   "id": "1262",
+   "name": "Indian",
+   "path": "Indian"
+  },
+  {
+   "id": "1271",
+   "name": "Dini",
+   "path": "Worldwide > Dini"
+  },
+  {
+   "id": "1275",
+   "name": "Indonesian Religious",
+   "path": "Worldwide > Indonesian Religious"
+  },
+  {
+   "id": "1282",
+   "name": "Farsi",
+   "path": "Worldwide > Farsi"
+  },
+  {
+   "id": "1283",
+   "name": "Israeli",
+   "path": "Worldwide > Israeli"
+  },
+  {
+   "id": "1288",
+   "name": "Sound Effects",
+   "path": "Soundtrack > Sound Effects"
+  },
+  {
+   "id": "1291",
+   "name": "Marching",
+   "path": "Marching"
+  },
+  {
+   "id": "1293",
+   "name": "Oldies",
+   "path": "Pop > Oldies"
+  },
+  {
+   "id": "1295",
+   "name": "Flamenco",
+   "path": "Worldwide > Flamenco"
+  },
+  {
+   "id": "1296",
+   "name": "Tango",
+   "path": "Worldwide > Tango"
+  },
+  {
+   "id": "1297",
+   "name": "Fado",
+   "path": "Worldwide > Fado"
+  },
+  {
+   "id": "1298",
+   "name": "Iberia",
+   "path": "Worldwide > Iberia"
+  },
+  {
+   "id": "1299",
+   "name": "Russian",
+   "path": "Russian"
+  },
+  {
+   "id": "1300",
+   "name": "Turkish",
+   "path": "Turkish"
+  },
+  {
+   "id": "100021",
+   "name": "Yoga",
+   "path": "New Age > Yoga"
+  },
+  {
+   "id": "100022",
+   "name": "Tribute",
+   "path": "Pop > Tribute"
+  },
+  {
+   "id": "100023",
+   "name": "Shows",
+   "path": "Pop > Shows"
+  },
+  {
+   "id": "100029",
+   "name": "Bolero",
+   "path": "Cuban > Bolero"
+  },
+  {
+   "id": "100032",
+   "name": "Video Game",
+   "path": "Soundtrack > Video Game"
+  },
+  {
+   "id": "100082",
+   "name": "Khaleeji Jalsat",
+   "path": "Arabic > Khaleeji > Khaleeji Jalsat"
+  },
+  {
+   "id": "100083",
+   "name": "Khaleeji Shailat",
+   "path": "Arabic > Khaleeji > Khaleeji Shailat"
+  },
+  {
+   "id": "100084",
+   "name": "Tarab",
+   "path": "Tarab"
+  },
+  {
+   "id": "100103",
+   "name": "Iraqi Folk",
+   "path": "Folk > Iraqi Folk"
+  },
+  {
+   "id": "50000061",
+   "name": "Spoken Word",
+   "path": "Spoken Word"
+  },
+  {
+   "id": "50000063",
+   "name": "Disney",
+   "path": "Disney"
+  }
+ ],
+ "dance_allowed": [
+  {
+   "id": "17",
+   "name": "Dance",
+   "path": "Dance"
+  }
+ ],
+ "hiphop_allowed": [
+  {
+   "id": "15",
+   "name": "R&B/Soul",
+   "path": "R&B/Soul"
+  },
+  {
+   "id": "18",
+   "name": "Hip-Hop/Rap",
+   "path": "Hip-Hop/Rap"
+  }
+ ],
+ "pop_allowed": [
+  {
+   "id": "14",
+   "name": "Pop",
+   "path": "Pop"
+  }
+ ],
+ "deadair_denied": [
+  {
+   "id": "5",
+   "name": "Classical",
+   "path": "Classical"
+  }
+ ]
+}

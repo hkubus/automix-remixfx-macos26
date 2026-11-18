@@ -1,0 +1,22 @@
+# --- Apple's files: never committed. 03-remixfx/fetch_apple_files.sh copies them from your own installs. ---
+/reference/macos26/
+/reference/macos27/
+/03-remixfx/payload/SonicAudioUnits
+/03-remixfx/payload/Resources/
+# 27's catalog with remapped style IDs (Apple-derived test data for the 02 research build)
+/02-enhanced-automix/test-resources/
+
+# --- build outputs (every script rebuilds these) ---
+*.dylib
+/03-remixfx/build/
+*.component/
+
+# --- logs and local test data: they contain track names, library IDs and account details ---
+logs/
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# --- macOS ---
+.DS_Store

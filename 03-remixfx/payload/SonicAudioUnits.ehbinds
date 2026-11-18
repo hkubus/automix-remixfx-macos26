@@ -1,0 +1,8 @@
+# Exception-handling imports of SonicAudioUnits that the code-reference scan could not see: they are referenced
+# only from __unwind_info (personality) and __gcc_except_tab (catch-clause type info), and live in the dyld
+# cache's shared GOT. Identified from ausdk's AUSDK_Catch ladders (AUException, bad_alloc, OSStatus,
+# system_error, ...) and the cache GOT's name ordering.   format: <image offset> <symbol without leading _>
+0x17fba080 __gxx_personality_v0
+0x17fb9e30 _ZTINSt3__112system_errorE
+0x17fb9e88 _ZTISt9bad_alloc
+0x17fb9ec0 _ZTIi

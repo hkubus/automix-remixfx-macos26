@@ -1,0 +1,42 @@
+PARAMETER COUNT = 40
+id    name                                    min          max      default
+0     Beats Per Minute                     20.000      300.000      120.000
+1     Filter A On/Off                       0.000        1.000        0.000
+2     Filter A Cutoff                      20.000    20000.000     1000.000
+3     Filter A Resonance                    0.000        1.000        0.000
+4     Filter B On/Off                       0.000        1.000        0.000
+5     Filter B Cutoff                      20.000    20000.000     1000.000
+6     Filter B Resonance                    0.000        1.000        0.000
+7     Repeater On/Off                       0.000        1.000        0.000
+8     Repeater Rate                         0.000        7.000        1.000
+9     Repeater Mix                          0.000        1.000        1.000
+10    Reverb On/Off                         0.000        1.000        0.000
+11    Reverb Time                           1.000      200.000        1.000
+12    Reverb Send                           0.000        1.000        0.000
+13    Delay On/Off                          0.000        1.000        0.000
+14    Delay Rate                            0.000       23.000       10.000
+15    Delay Feedback                        0.000        1.000        0.000
+16    Delay Level                           0.000        1.000        0.000
+17    Gater On/Off                          0.000        1.000        0.000
+18    Gater Rate                            0.000       15.000        1.000
+19    Gater Depth                           0.000        1.000        1.000
+20    Gater PW                              0.000        1.000        0.500
+21    Gater Noise Level                     0.000        1.000        0.500
+22    Gater Noise Cutoff                    0.000        1.000        0.500
+23    Flanger On/Off                        0.000        1.000        0.000
+24    Flanger Rate                          0.000       15.000        1.000
+25    Flanger Mix                           0.000        1.000        1.000
+26    Flanger Feedback                      0.000        1.000        0.000
+27    Phaser On/Off                         0.000        1.000        0.000
+28    Phaser Rate                           0.000       15.000        1.000
+29    Phaser Feedback                       0.000        1.000        0.000
+30    Phaser Mix                            0.000        0.500        0.500
+31    LFO Phase Sync                        0.000        1.000        0.000
+32    Filter A Type                         0.000        2.000        0.000
+33    Filter B Type                         0.000        2.000        0.000
+34    Flanger Depth                         0.000        1.000        0.000
+35    Flanger Center                        0.000        1.000        0.000
+36    Reverb Dry                            0.000        1.000        1.000
+37    Reverb Wet                            0.000        1.000        1.000
+38    Tape Stop                             0.000        1.000        0.000
+39    Tape Stop Rate                        3.000       15.000        7.000
